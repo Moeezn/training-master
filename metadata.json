@@ -1,0 +1,6 @@
+{
+  "name": "AI Training Master",
+  "description": "Adaptive fitness and martial arts training coach with comprehensive safety safeguards, non-punitive progression, real-time form guidance, and verified user disclaimer workflows.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
